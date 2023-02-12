@@ -40,10 +40,16 @@
 
 ## Tecnologias
 
+<div style='display: flex; justify-content: center;'>
+    <img src="assets\img\vscode.png" style="width:96px">
+    <img src="assets\img\react.png" style="width:96px">
+    <img src="assets\img\node.png" style="width:96px">
+</div>
 
 ## Siga-me:
 
-<a href="https://www.linkedin.com/in/leonardosantosdev/">LinkedIn</a>
+
+<a href="https://www.linkedin.com/in/leonardosantosdev/"><img src="assets\img\linkedin.png"></a>
 
 
 
