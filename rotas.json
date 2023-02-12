@@ -1,0 +1,20 @@
+{
+    "/jogoConsole/list": "/jogoConsole/",
+    "/jogoConsole/create": "/jogoConsole/",
+    "/jogoConsole/update/:id": "/jogoConsole/:id",
+    "/jogoConsole/delete/:id": "/jogoConsole/:id",
+    
+    
+    
+    "/jogoPC/list": "/jogoPc/",
+    "/jogoPc/create": "/jogoPc/",
+    "/jogoPc/update/:id": "/jogoPC/:id",
+    "/jogoPc/delete/:id": "/jogoPc/:id",
+   
+   
+    "/usuario/list": "/usuario/",
+    "/usuario/create": "/usuario/",
+    "/usuario/update/:id": "/usuario/:id",
+    "/usuario/delete/:id": "/usuario/:id"
+
+}

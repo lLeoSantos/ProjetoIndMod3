@@ -1,67 +1,71 @@
 {
   "jogoConsole": [
     {
-      "nome": "Jogo1",
       "id": 1,
+      "nome": "Jogo1",
       "price": 350
     },
     {
-      "nome": "Jogo2",
       "id": 2,
+      "nome": "Jogo2",
       "price": 250
     },
     {
-      "nome": "Jogo3",
       "id": 3,
+      "nome": "Jogo3",
       "price": 500
     },
     {
-      "nome": "Jogo4",
       "id": 4,
+      "nome": "Jogo4",
       "price": 730
     }
   ],
+
+
   "jogoPc": [
     {
-      "nome": "Jogo1",
       "id": 1,
+      "nome": "Jogo1",
       "price": 350
     },
     {
-      "nome": "Jogo2",
       "id": 2,
+      "nome": "Jogo2",
       "price": 250
     },
     {
-      "nome": "Jogo3",
       "id": 3,
+      "nome": "Jogo3",
       "price": 500
     }
   ],
+
+
   "usuario": [
     {
-      "nome": "Jubileu",
       "id": 1,
+      "nome": "Jubileu",
       "age": 25,
       "password": "4587sdfas"
     },
     {
-      "nome": "Lucas",
       "id": 2,
+      "nome": "Lucas",
       "age": 18,
       "password": "123sdfas"
     },
     {
-      "nome": "Larissa",
       "id": 3,
+      "nome": "Larissa",
       "age": 39,
       "password": "12322ss"
     },
     {
+      "id": 4,
       "usuario": "Leonardo",
       "age": 27,
-      "password": "123456",
-      "id": 4
+      "password": "123456"
     }
   ]
 }
