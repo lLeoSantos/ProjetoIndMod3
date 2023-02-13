@@ -34,7 +34,6 @@
 | GET    |  /jogoConsole/id | /jogoPc/id | /usuario/id |
 | POST   |  /jogoConsole    | /jogoPc    | /usuario |
 | PUT    |  /jogoConsole/id | /jogoPc/id | /usuario/id |
-| PATCH  |  /jogoConsole/id | /jogoPc/id | /usuario/id |
 | DELETE |  /jogoConsole/id | /jogoPc/id | /usuario/id |
 
 
